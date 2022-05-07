@@ -2018,7 +2018,7 @@
  .ctanext{
    position: absolute;
    transition: transform .3s; 
-   bottom: 50px;
+   top:130px;
    right: 0;
    /* width: 50px; */
    z-index: 1;
@@ -2030,7 +2030,7 @@
   .ctaprev{
     position: absolute;
     transition: transform .3s; 
-    bottom: 120px;
+    top: 160px;
     right: 0;
     transform: rotate(180deg);
     z-index: 1;
